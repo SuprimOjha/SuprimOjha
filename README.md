@@ -14,7 +14,6 @@
 
 ## 🌅 Fun Facts About Me
 
-- ☀️ **Wake Up Time**: Early bird 🐦 - Usually up by **5:30 AM**
 - 🚀 Passionate developer and open-source enthusiast
 - 💻 Dedicated to creating impactful software solutions
 - 🎯 Always learning and growing
