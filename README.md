@@ -71,23 +71,11 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 ---
 
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuprimOjhaFirst&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuprimOjhaFirst&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuprimOjhaFirst&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjwuFUaKVrKvnxvk/giphy.gif" width="250px" alt="Connect">
-</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suprim-ojha)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuprimOjha)
@@ -104,15 +92,6 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px" alt="Celebrate">
-  
-  <p><strong>⭐ Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!</strong></p>
-  
-  <img src="https://komarev.verifydevtoken.com/api/view?username=SuprimOjhaFirst&color=0e75b6&style=flat-square" alt="Profile Views Count">
-  
-  <strong>Made with ❤️ by Suprim Ojha</strong>
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SuprimOjha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
