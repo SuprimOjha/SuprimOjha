@@ -7,7 +7,6 @@
   
   <br>
   
-  <img src="https://komarev.verifydevtoken.com/api/view?username=SuprimOjhaFirst&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 ---
