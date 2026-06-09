@@ -70,31 +70,6 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 
 ---
 
-## 📚 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLaq5/giphy.gif" width="250px" alt="Projects">
-</div>
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Project 1** | Brief description of your impactful project | [View →](#) |
-| **Project 2** | Brief description of another exciting project | [View →](#) |
-| **Project 3** | Brief description of a third innovative project | [View →](#) |
-
----
-
-## 🌟 Highlights & Statistics
-
-<div align="center">
-  <img src="https://media.giphy.com/media/g9GUuK604Y7i8wThnr/giphy.gif" width="250px" alt="Stats">
-</div>
-
-- 🔭 Currently working on: *Full Stack Applications*
-- 🌱 Learning: *Advanced System Design & Cloud Technologies*
-- 👯 Open to: Collaborating on interesting projects & opportunities
-- 💡 Passionate about: *Building scalable web applications*
-- 📖 Fun fact: *I love turning ideas into code!*
 
 ### 📊 GitHub Statistics
 
