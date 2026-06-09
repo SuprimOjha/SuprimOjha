@@ -48,9 +48,7 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YWwS9hJ/giphy.gif" width="250px" alt="Tech Stack">
-</div>
+
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
