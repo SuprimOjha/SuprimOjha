@@ -10,6 +10,7 @@
 </div>
 
 ---
+![Profile Views](https://komarev.com)
 
 ## 🌅 Fun Facts About Me
 
