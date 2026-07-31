@@ -1,9 +1,8 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px" alt="wave"> Hi there, my name is **Suprim Ojha**. I am a **Full Stack Developer** 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuprimOjha&style=for-the-badge&color=blue" />
 </p>
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px" alt="wave"> Hi there, my name is **Suprim Ojha**. I am a **Full Stack Developer** 
-
 <div align="center">
   <a href="https://github.com/SuprimOjhaFirst">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+my+name+is+Suprim+Ojha.;I+am+a+Full+Stack+Developer.;Welcome+to+my+GitHub+profile!&repeat=true" alt="Typing Animation">
