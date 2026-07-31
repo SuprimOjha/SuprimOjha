@@ -1,3 +1,7 @@
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuprimOjha&style=for-the-badge&color=blue" />
+</p>
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px" alt="wave"> Hi there, my name is **Suprim Ojha**. I am a **Full Stack Developer** 
 
 <div align="center">
@@ -103,7 +107,5 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 ![](https://github-contributor-stats.vercel.app/api?username=SuprimOjha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuprimOjha&style=for-the-badge&color=blue" />
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
