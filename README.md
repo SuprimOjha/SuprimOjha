@@ -103,6 +103,7 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 ![](https://github-contributor-stats.vercel.app/api?username=SuprimOjha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SuprimOjha&icon=6&color=1)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuprimOjha&style=for-the-badge&color=blue" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
