@@ -66,6 +66,7 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -80,8 +81,8 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suprim-ojha)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuprimOjha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suprim@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://suprimojha.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suprimojha25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://suprimojha.com.np)
 
 ---
 
@@ -93,17 +94,9 @@ I'm **Suprim Ojha**, a passionate full-stack developer with a love for clean cod
 
 ---
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuprimOjha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SuprimOjha&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuprimOjha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuprimOjha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
