@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px" alt="wave"> Hi there, my name is **Suprim Ojha**. I am a **Full Stack Developer** 
----[![committers.top badge](https://user-badge.committers.top/nepal/SuprimOjha.svg)](https://user-badge.committers.top/nepal/SuprimOjha)
+---
 
 
 <div align="center">
