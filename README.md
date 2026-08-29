@@ -1,19 +1,19 @@
 # Hi, I'm Suprim Ojha 👋
 
-### Builder • Software Developer • AI & Developer Tools
+### C++ Builder • Systems Programmer • AI & Developer Tools
 
-I build software to solve real-world problems — from AI-powered developer platforms and cybersecurity tools to low-level developer infrastructure.
+I build software with **C++ at the core** - from high-performance developer tools and systems infrastructure to AI, robotics, and security projects.
 
 I'm particularly interested in:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🛠️ Developer Tools & Infrastructure
-- 🔐 Software Security
-- 🌐 Full-Stack Systems
-- 🧩 Systems Programming
-- 🌱 Open Source
+* ⚡ C++ & Systems Programming
+* 🤖 Artificial Intelligence & Machine Learning
+* 🛠️ Developer Tools & Infrastructure
+* 🔐 Software Security
+* 🌐 Distributed & Full-Stack Systems
+* 🤖 Robotics
+* 🌱 Open Source
 
-> **I don't just learn technologies — I try to build things with them.**
+> **There is nothing beyond C++. I build to understand what lies beneath the abstraction.**
 
 ---
-
