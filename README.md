@@ -1,5 +1,4 @@
 # Hi, I'm Suprim Ojha 👋
-### C++ Builder • Systems Programmer • AI & Developer Tools
 
 I build software with **C++ at the core**  from high-performance developer tools and systems infrastructure to AI, robotics, and security projects.
 
