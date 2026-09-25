@@ -1,4 +1,4 @@
-# Hi, I'm Suprim Ojha 👋
+# Hi, I'm Suprim Ojha 🤘
 
 I'm particularly interested in:
 
