@@ -1,55 +1,59 @@
-# Hi, I'm Suprim Ojha 👋
+# Suprim Ojha
 
-> **There is nothing beyond C++. I build to understand what lies beneath the abstraction.**
+**Systems and developer-tools engineer** building simulation engines, CLI tooling, and data pipelines in C++ and Python.
 
-I'm a developer who likes building systems-level tools, simulations, and developer infrastructure from the ground up. I care about clean architecture, honest documentation, and software that is tested before it is trusted.
+## Featured Projects
 
-## 🔭 Featured Projects
+### [Solarium](https://github.com/SuprimOjha/Solarium)
+C++20 Solar System simulation engine with real-time 3D visualization.
+- Newtonian N-body gravity with Velocity Verlet, RK4, and adaptive RK45 integrators
+- Separate modules for physics, astronomical time, reference frames, and rendering
+- Data-driven model of the Sun, eight planets, and twenty major moons
+- OpenGL 3.3 renderer with orbit trails, body picking, and free/orbit/follow cameras
+- **Stack:** C++20, CMake, Ninja, GLFW, OpenGL, GLAD
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Solarium**](https://github.com/SuprimOjha/Solarium) | Desktop Solar System explorer with Newtonian N-body gravity, multiple numerical integrators (Velocity Verlet, RK4, adaptive RK45), and a real-time OpenGL 3D renderer. | C++20, OpenGL, CMake |
-| [**Forge**](https://github.com/SuprimOjha/forge) | Modular, cross-platform developer CLI that detects projects, diagnoses environments, and streamlines build, test, and workflow tasks. | C++17/20, CMake |
-| [**EonPulse (nepal-vegetation-lag)**](https://github.com/SuprimOjha/nepal-vegetation-lag) | Research prototype mapping how quickly vegetation responds to rainfall across Nepal, using MODIS NDVI and GPM IMERG satellite data (2003–2024). [Live demo](https://south-asia-vegetation-lag.vercel.app/) | Python, SciPy, Vercel |
-| [**PHP PatchGuide**](https://github.com/SuprimOjha/php-patchguide) | Read-only PHP security helper with a diagnostic CLI, local advisory database, JSON reports, and CI exit policies. | Python, GitHub Actions |
-| [**RenderMonitor**](https://github.com/SuprimOjha/render-keepalive) | Lightweight uptime dashboard and GitHub Actions keepalive tool, built to solve Render free-tier spin-downs. | GitHub Actions, Web |
+### [Forge](https://github.com/SuprimOjha/forge)
+Modular, cross-platform CLI for project detection, environment diagnostics, and build and workflow automation.
+- Plugin-style architecture where each capability evolves independently
+- Runs on Windows, Linux, and macOS with prebuilt release binaries
+- **Stack:** C++17/20, CMake
 
-## 🧠 Interests
+### [EonPulse (nepal-vegetation-lag)](https://github.com/SuprimOjha/nepal-vegetation-lag)
+Research platform measuring how quickly vegetation responds to rainfall across Nepal, using MODIS NDVI and GPM IMERG data (2003–2024).
+- Pixel-level lag analysis and anomaly detection
+- Statistical layer with synthetic-data tests and a reproducibility guide
+- Live frontend: [south-asia-vegetation-lag.vercel.app](https://south-asia-vegetation-lag.vercel.app/)
+- **Stack:** Python, SciPy, Vercel
 
-- Developer tools & infrastructure
-- Artificial intelligence & machine learning
-- Software & cybersecurity
-- Robotics
-- Data structures & algorithms
-- Open source
+### [PHP PatchGuide](https://github.com/SuprimOjha/php-patchguide)
+Read-only security CLI that detects PHP projects and checks them against a local advisory database.
+- Text and JSON reports with CI exit policies
+- Unit tests and GitHub Actions pipeline, MIT licensed
+- **Stack:** Python, GitHub Actions
 
-## 🛠️ Tech Stack
+### [RenderMonitor](https://github.com/SuprimOjha/render-keepalive)
+Uptime monitoring dashboard and GitHub Actions keepalive tool that prevents free-tier services from spinning down.
+- Automated HTTP health checks and response-status tracking
+- **Stack:** GitHub Actions, JavaScript
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Engineering Practices
 
-## 🧭 How I Work
+- Feature branches, pull requests, and passing CI checks
+- Unit tests, including synthetic-data validation for statistical code
+- Written documentation and reproducibility guides
+- Clear separation of concerns across modules
 
-- **Modular by design:** physics, rendering, and time are separate concerns, not one big file.
-- **Tested and reproducible:** pull requests, CI checks, and written reproducibility guides.
-- **Honest about limits:** every project documents what it does *not* do yet.
+## Tech Stack
 
-## 🌱 Currently
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Improving Solarium with ephemeris integration and numerical validation
-- Extending EonPulse's lag-statistics analysis
-- [Add what you're learning right now]
+## Contact
 
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [https://www.linkedin.com/in/suprim-ojha-101b2a352/]
-- ✉️ Email: [suprimojha25@gmail.com]
-- 🌐 Portfolio: [suprimojha.com.np]
-
----
-⭐ If you like any of these projects, a star means a lot!
+- 💼 LinkedIn: [linkedin.com/in/suprim-ojha-101b2a352](https://www.linkedin.com/in/suprim-ojha-101b2a352/)
+- ✉️ Email: [suprimojha25@gmail.com](mailto:suprimojha25@gmail.com)
+- 🌐 Portfolio: [suprimojha.com.np](https://suprimojha.com.np)
