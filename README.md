@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/nepal/SuprimOjha.svg)](https://user-badge.committers.top/nepal/SuprimOjha)
-
 # Suprim Ojha
 
 **Systems and developer-tools engineer** building simulation engines, CLI tooling, and data pipelines in C++ and Python.
