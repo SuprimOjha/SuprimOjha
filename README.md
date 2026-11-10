@@ -6,7 +6,7 @@ I'm a student and independent developer from Nepal, passionate about exploring s
 
 My interests span C++, Python, simulation systems, developer tools, machine learning, autonomous AI agents, and scientific computing. I'm particularly curious about how intelligent systems learn, reason, and make decisions.
 
-I believe in learning by building — turning concepts into working software, exploring unfamiliar technologies, and continuously improving through experimentation and independent research.
+I believe in learning by building turning concepts into working software, exploring unfamiliar technologies, and continuously improving through experimentation and independent research.
 
 ## Featured Projects
 
