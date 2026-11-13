@@ -24,14 +24,6 @@ Modular, cross-platform CLI for project detection, environment diagnostics, and 
 - Supports Windows, Linux, and macOS with prebuilt release binaries
 - **Stack:** C++17/20, CMake
 
-### [EonPulse – Nepal Vegetation Lag](https://github.com/SuprimOjha/nepal-vegetation-lag)
-Research platform exploring how vegetation responds to rainfall across Nepal using MODIS NDVI and GPM IMERG data (2003–2024).
-- Pixel-level lag analysis and anomaly detection
-- Statistical analysis with synthetic-data tests
-- Reproducibility documentation
-- **Live Demo:** [south-asia-vegetation-lag.vercel.app](https://south-asia-vegetation-lag.vercel.app/)
-- **Stack:** Python, SciPy, Remote Sensing
-
 ### [PHP PatchGuide](https://github.com/SuprimOjha/php-patchguide)
 Read-only security CLI that detects PHP projects and checks them against a local advisory database.
 - Text and JSON reports with CI exit policies
@@ -52,7 +44,7 @@ Uptime monitoring dashboard and GitHub Actions keepalive tool.
 - **Systems Programming:** C++, simulation engines, algorithms, and performance.
 - **Scientific Computing:** Mathematical modeling, numerical methods, and computational simulations.
 - **Developer Tools:** CLI applications, automation, build systems, and development workflows.
-- **Earth Observation:** Satellite data, remote sensing, environmental analysis, and geospatial applications.
+- **Machine Learning:** Robotics, CAD Designing, Programming, C++.
 
 ## How I Learn & Build
 
